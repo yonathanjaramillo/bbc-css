@@ -6,11 +6,8 @@ This project recreates a BBC-style news homepage using HTML and CSS. The goal wa
 
 Open the project using Live Server or open `index.html` directly in your browser.
 
-## Layout Reference
 
-This layout was recreated from the following design reference:
-
-https://communitytaught.org/img/resources/bbc.png
+https://yonathanjaramillo.github.io/bbc-css/
 
 ## Technologies Used
 
